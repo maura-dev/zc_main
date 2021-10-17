@@ -43,6 +43,7 @@ const themeColors = {
     textColor:"#aeaeae"
   },
 
+
   canary:{
     primary:"#eb751f",
     secondary:"#884310",
